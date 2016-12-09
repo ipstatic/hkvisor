@@ -1,0 +1,5 @@
+cameras:
+  - name: "IP Camera 1"
+    ip_address: "127.0.0.1"
+    username: "user"
+    password: "pass"
